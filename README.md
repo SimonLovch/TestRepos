@@ -1,1 +1,4 @@
-README 
+#README
+
+##Initialize Git 
+--git commit--
